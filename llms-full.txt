@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Asset Protection When Judgment Proof -- What Creditors Cannot Seize -- Judgmentproof
+## Asset Protection When Judgment Proof - What Creditors Cannot Seize - Judgmentproof
 Source: https://judgmentproof.org/asset-protection.html
 
 Asset Protection When Judgment Proof
@@ -31,11 +31,11 @@ Vehicle Exemptions
 
 Most states exempt one vehicle up to a specified value, typically $2,500-$7,500 in equity. Some states are more generous: Missouri exempts up to $3,000 per vehicle, California exempts up to $7,500, and some states have no dollar limit on one vehicle.
 
-Remember that the exemption applies to equity, not the vehicle's market value. If your car is worth $15,000 but you owe $12,000 on the loan, your equity is only $3,000 -- likely within your state's exemption. If you own the car free and clear, the full value counts as equity.
+Remember that the exemption applies to equity, not the vehicle's market value. If your car is worth $15,000 but you owe $12,000 on the loan, your equity is only $3,000 - likely within your state's exemption. If you own the car free and clear, the full value counts as equity.
 
 Retirement Account Protections
 
-Retirement accounts have strong federal and state protections. ERISA-qualified plans (401(k), 403(b), most employer pensions) are fully exempt from creditor claims under federal law -- no dollar limit. IRAs and Roth IRAs are exempt up to approximately $1.5 million under federal bankruptcy law, and many states provide additional or unlimited protection.
+Retirement accounts have strong federal and state protections. ERISA-qualified plans (401(k), 403(b), most employer pensions) are fully exempt from creditor claims under federal law - no dollar limit. IRAs and Roth IRAs are exempt up to approximately $1.5 million under federal bankruptcy law, and many states provide additional or unlimited protection.
 
 This means your retirement savings are generally safe from creditors. Do NOT withdraw from retirement accounts to pay unsecured debts. The money is protected while in the account but loses that protection once withdrawn and deposited into a regular bank account.
 
@@ -77,7 +77,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -161,7 +161,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Protecting Your Bank Account From Creditor Levies and Freezes -- Judgmentproof
+## Protecting Your Bank Account From Creditor Levies and Freezes - Judgmentproof
 Source: https://judgmentproof.org/bank-account-protection.html
 
 Bank Account Protection From Creditors
@@ -180,7 +180,7 @@ Federal Automatic Protection Rule
 
 Since 2011, federal regulations require banks to automatically protect deposits from garnishment if the account received federal benefit payments (Social Security, SSI, VA benefits, federal employee retirement) via direct deposit within the past 2 months. The bank must calculate the sum of such deposits in the 2-month lookback period and protect that amount from the garnishment order.
 
-This protection is automatic -- you don't need to file anything. However, it only covers federal benefits deposited by direct deposit. If you receive benefits by paper check and deposit them manually, the automatic protection may not apply, though you can still claim the exemption manually.
+This protection is automatic - you don't need to file anything. However, it only covers federal benefits deposited by direct deposit. If you receive benefits by paper check and deposit them manually, the automatic protection may not apply, though you can still claim the exemption manually.
 
 Claiming Exemptions Manually
 
@@ -190,7 +190,7 @@ File the exemption claim immediately when you discover the freeze. Missing the d
 
 Best Practices for Protecting Your Account
 
-1. Use direct deposit for all exempt benefits to trigger automatic protection. 2. Keep a separate account for exempt income only -- don't mix it with wages or other non-exempt funds. 3. Maintain records of the source of all deposits. 4. Don't keep large balances beyond what you need for monthly expenses -- excess funds are more likely to attract creditor attention.
+1. Use direct deposit for all exempt benefits to trigger automatic protection. 2. Keep a separate account for exempt income only - don't mix it with wages or other non-exempt funds. 3. Maintain records of the source of all deposits. 4. Don't keep large balances beyond what you need for monthly expenses - excess funds are more likely to attract creditor attention.
 
 If you know a creditor has a judgment against you, consider banking at a different institution than where the creditor might expect. While this isn't foolproof (creditors can subpoena financial records), it can slow down the levy process and give you more time to protect your funds.
 
@@ -206,7 +206,7 @@ Joint accounts can be levied, but the non-debtor owner can claim their portion o
 
 Can a creditor levy my account without a judgment?
 
-Generally no. Bank levies require a court judgment (or in some cases, a tax levy from the IRS). If a creditor attempts to freeze your account without a valid judgment, consult an attorney immediately -- this may constitute an illegal seizure.
+Generally no. Bank levies require a court judgment (or in some cases, a tax levy from the IRS). If a creditor attempts to freeze your account without a valid judgment, consult an attorney immediately - this may constitute an illegal seizure.
 
 What if the bank fails to protect my exempt deposits?
 
@@ -221,6 +221,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -230,7 +234,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -314,7 +318,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Disability Income Protection From Creditors -- SSDI, SSI, and Private Disability -- Judgmentproof
+## Disability Income Protection From Creditors - SSDI, SSI, and Private Disability - Judgmentproof
 Source: https://judgmentproof.org/disability-income-protection.html
 
 Disability Income Protection
@@ -331,7 +335,7 @@ The same exceptions apply as with retirement Social Security: federal taxes (IRS
 
 SSI (Supplemental Security Income)
 
-SSI receives even stronger protections than SSDI. Because SSI is a needs-based program for people with limited income and resources, it is completely exempt from all garnishment -- including for federal taxes, federal student loans, and child support. The rationale is that SSI benefits represent the bare minimum needed for survival.
+SSI receives even stronger protections than SSDI. Because SSI is a needs-based program for people with limited income and resources, it is completely exempt from all garnishment - including for federal taxes, federal student loans, and child support. The rationale is that SSI benefits represent the bare minimum needed for survival.
 
 SSI recipients are almost always judgment proof because the program's income and asset limits ($2,000 for individuals, $3,000 for couples) mean there's essentially nothing for creditors to take. If you receive SSI and are being contacted by collectors, you have extremely strong protections.
 
@@ -370,6 +374,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -379,7 +387,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -463,7 +471,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Income Types Protected From Garnishment -- What Creditors Cannot Take -- Judgmentproof
+## Income Types Protected From Garnishment - What Creditors Cannot Take - Judgmentproof
 Source: https://judgmentproof.org/income-types-protected.html
 
 Income Types Protected From Garnishment
@@ -488,7 +496,7 @@ Wage Garnishment Limits
 
 For wages that are not fully exempt, federal law (Title III of the Consumer Credit Protection Act) limits garnishment to the lesser of: 25% of disposable earnings, or the amount by which weekly disposable earnings exceed 30 times the federal minimum wage ($7.25 x 30 = $217.50/week).
 
-Many states set lower limits. In New York, the limit is 10% of gross wages or 25% of disposable earnings, whichever is less. In Illinois, the greater of 85% of gross wages or 45 times the state minimum wage is protected. Check your state's specific limits -- they may be more protective than federal law.
+Many states set lower limits. In New York, the limit is 10% of gross wages or 25% of disposable earnings, whichever is less. In Illinois, the greater of 85% of gross wages or 45 times the state minimum wage is protected. Check your state's specific limits - they may be more protective than federal law.
 
 Protecting Exempt Income in Bank Accounts
 
@@ -519,6 +527,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -528,7 +540,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -612,14 +624,16 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Judgment Proof -- Can Creditors Collect? [2026] -- Judgmentproof
+## Judgment Proof - Can Creditors Collect? [2026] - Judgmentproof
 Source: https://judgmentproof.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
 Judgment Proof
 
-Quick answer: You are 'judgment proof' if you have no non-exempt income or assets for creditors to seize -- collection is legally possible but practically pointless.
+Quick answer: You are 'judgment proof' if you have no non-exempt income or assets for creditors to seize - collection is legally possible but practically pointless.
 
 When Creditors Cannot Collect Even If They Sue
 
@@ -627,7 +641,7 @@ What Does Judgment Proof Mean?
 
 Being "judgment proof" (also called "collection proof") means a creditor cannot practically collect from you even if they win a lawsuit and get a court judgment. This happens when all your income comes from exempt sources and you have no non-exempt assets. The judgment exists on paper, but there is nothing for the creditor to take.
 
-This is not a formal legal status -- it is a practical reality. No court declares you judgment proof. It simply means that enforcement mechanisms (wage garnishment, bank levies, property liens) will not work against you because everything you have is legally protected.
+This is not a formal legal status - it is a practical reality. No court declares you judgment proof. It simply means that enforcement mechanisms (wage garnishment, bank levies, property liens) will not work against you because everything you have is legally protected.
 
 Who Is Typically Judgment Proof?
 
@@ -643,7 +657,7 @@ Note: these protections have limits. Social Security is exempt from private cred
 
 How Creditors Try to Collect Anyway
 
-Even if you are judgment proof, creditors may: Sue you anyway hoping you won't respond (leading to a default judgment). Garnish your bank account before you claim exemptions -- bank account levy protection. Harass you with calls and letters. Wait -- judgments last 10-20 years and are renewable, so they may collect later if your situation changes.
+Even if you are judgment proof, creditors may: Sue you anyway hoping you won't respond (leading to a default judgment). Garnish your bank account before you claim exemptions - bank account levy protection. Harass you with calls and letters. Wait - judgments last 10-20 years and are renewable, so they may collect later if your situation changes.
 
 This is why understanding your status matters. Even judgment-proof individuals should respond to lawsuits and assert their exemptions. Ignoring a lawsuit leads to a default judgment that hangs over you for years.
 
@@ -655,7 +669,7 @@ Judgment proof: debts still exist, judgments accumulate, situation can change, n
 
 How to Prove You Are Judgment Proof
 
-1. Document all income sources -- bank statements showing only exempt deposits. 2. List all assets and confirm they fall within state exemptions. 3. Complete a financial declaration (the court may require this). 4. Respond to any lawsuits -- file an answer claiming exemptions. 5. File a claim of exemption if your bank account is levied or wages are garnished.
+1. Document all income sources - bank statements showing only exempt deposits. 2. List all assets and confirm they fall within state exemptions. 3. Complete a financial declaration (the court may require this). 4. Respond to any lawsuits - file an answer claiming exemptions. 5. File a claim of exemption if your bank account is levied or wages are garnished.
 
 Keep records organized. If a creditor tries to garnish or levy, you will need to prove your income is exempt. Check your state's exemptions.
 
@@ -685,7 +699,7 @@ Judgment proof means a creditor cannot practically collect from you even after w
 
 What income is exempt from garnishment?
 
-Federally protected income includes Social Security, SSI, SSDI, veterans benefits, federal pensions, and Railroad Retirement. Most states also protect unemployment compensation, workers compensation, public assistance, and state pensions. Wages are partially protected -- creditors can only garnish 25% of disposable earnings.
+Federally protected income includes Social Security, SSI, SSDI, veterans benefits, federal pensions, and Railroad Retirement. Most states also protect unemployment compensation, workers compensation, public assistance, and state pensions. Wages are partially protected - creditors can only garnish 25% of disposable earnings.
 
 Do I need bankruptcy if I am judgment proof?
 
@@ -693,23 +707,23 @@ Not necessarily. If all your income is exempt and you have no non-exempt assets,
 
 Explore Our Guides
 
-What Does It Mean to Be Judgment Proof? -- Learn what judgment proof means, how to determine if you qualify, and what protections exist for people with exempt inco
+What Does It Mean to Be Judgment Proof? - Learn what judgment proof means, how to determine if you qualify, and what protections exist for people with exempt inco
 
-Income Types Protected From Garnishment -- Federal and state laws protect many income types from creditor garnishment. Social Security, disability, veterans benefi
+Income Types Protected From Garnishment - Federal and state laws protect many income types from creditor garnishment. Social Security, disability, veterans benefi
 
-Asset Protection When Judgment Proof -- Understand which assets are protected from creditors and judgments. State exemptions protect your home, vehicle, persona
+Asset Protection When Judgment Proof - Understand which assets are protected from creditors and judgments. State exemptions protect your home, vehicle, persona
 
-Bank Account Protection From Creditors -- Learn how to protect your bank account from garnishment. Federal rules protect exempt deposits, but you need to know you
+Bank Account Protection From Creditors - Learn how to protect your bank account from garnishment. Federal rules protect exempt deposits, but you need to know you
 
-Can Social Security Be Garnished? -- Social Security benefits are protected from most creditor garnishment. Learn the exceptions, how to protect direct depos
+Can Social Security Be Garnished? - Social Security benefits are protected from most creditor garnishment. Learn the exceptions, how to protect direct depos
 
-Disability Income Protection -- Disability benefits are largely protected from creditor garnishment. Learn which disability income types are exempt and
+Disability Income Protection - Disability benefits are largely protected from creditor garnishment. Learn which disability income types are exempt and
 
-State Exemptions Overview -- Each state has different exemption laws that determine what creditors can and cannot take. Overview of key state exempti
+State Exemptions Overview - Each state has different exemption laws that determine what creditors can and cannot take. Overview of key state exempti
 
-Judgment Proof Letter Template -- Free template letter to send creditors when you are judgment proof. Explain your exempt income and stop unnecessary coll
+Judgment Proof Letter Template - Free template letter to send creditors when you are judgment proof. Explain your exempt income and stop unnecessary coll
 
-When Judgment-Proof Status Changes -- Judgment-proof status can change when your income or assets increase. Learn how to plan ahead and protect yourself when
+When Judgment-Proof Status Changes - Judgment-proof status can change when your income or assets increase. Learn how to plan ahead and protect yourself when
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -735,7 +749,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -783,7 +797,7 @@ debtcollectionlawsuit.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -918,6 +932,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 judgmentproof.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -931,9 +946,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Judgment Proof Letter Template -- Notify Creditors of Your Protected Status -- Judgmentproof
+## Judgment Proof Letter Template - Notify Creditors of Your Protected Status - Judgmentproof
 Source: https://judgmentproof.org/judgment-proof-letter.html
 
 Judgment Proof Letter Template
@@ -946,7 +963,7 @@ When to Send a Judgment-Proof Letter
 
 Send this letter when collectors contact you and your only income comes from exempt sources with no non-exempt assets. The letter serves to: inform the collector that you're judgment proof, request they cease collection activity, and create documentation in case of future FDCPA violations.
 
-This is not a legal requirement -- you're under no obligation to explain your finances to a collector. But in practice, a clear letter often results in the collector closing the account, since pursuing a judgment-proof debtor wastes their resources.
+This is not a legal requirement - you're under no obligation to explain your finances to a collector. But in practice, a clear letter often results in the collector closing the account, since pursuing a judgment-proof debtor wastes their resources.
 
 Sample Letter
 
@@ -961,7 +978,7 @@ Re: [Account Reference]
 
 I am writing in response to your collection communications regarding the above account. Please be advised that I am currently judgment proof and all of my income and assets are exempt from garnishment and levy under applicable federal and state law.
 
-My sole source(s) of income is/are: [Social Security benefits / SSDI / SSI / VA disability / pension -- list all that apply]. I have no non-exempt assets.
+My sole source(s) of income is/are: [Social Security benefits / SSDI / SSI / VA disability / pension - list all that apply]. I have no non-exempt assets.
 
 Federal law (42 U.S.C. 407 / 38 U.S.C. 5301) and applicable state exemption laws protect all of my income and property from collection. Pursuing this matter further, including filing a lawsuit, would result in an uncollectible judgment and may constitute harassment under the Fair Debt Collection Practices Act.
 
@@ -972,7 +989,7 @@ Sincerely,
 
 Tips for Maximum Effectiveness
 
-Send via certified mail with return receipt. Include documentation -- a Social Security benefit verification letter or VA benefit statement strengthens your position. Do not include bank account numbers, detailed asset information, or anything a collector could use to locate your funds. Do not admit the debt is valid -- use language like "the above account" rather than "my debt."
+Send via certified mail with return receipt. Include documentation - a Social Security benefit verification letter or VA benefit statement strengthens your position. Do not include bank account numbers, detailed asset information, or anything a collector could use to locate your funds. Do not admit the debt is valid - use language like "the above account" rather than "my debt."
 
 If you're also within the statute of limitations, consider combining this letter with an SOL defense. If the debt is both time-barred and uncollectible, that's a powerful one-two punch.
 
@@ -999,6 +1016,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1008,7 +1029,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1092,7 +1113,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Can Social Security Be Garnished? -- Protecting Your Benefits -- Judgmentproof
+## Can Social Security Be Garnished? - Protecting Your Benefits - Judgmentproof
 Source: https://judgmentproof.org/social-security-garnishment.html
 
 Can Social Security Be Garnished?
@@ -1148,6 +1169,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1157,7 +1182,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1241,7 +1266,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## State Exemptions Overview -- How State Law Protects Judgment-Proof Status -- Judgmentproof
+## State Exemptions Overview - How State Law Protects Judgment-Proof Status - Judgmentproof
 Source: https://judgmentproof.org/state-exemptions-overview.html
 
 State Exemptions Overview
@@ -1270,7 +1295,7 @@ In these states, even moderate assets and wages may be vulnerable to creditor ac
 
 Wildcard Exemptions
 
-Many states offer a wildcard exemption -- a dollar amount you can apply to any property of your choosing. This is valuable for protecting assets that don't fit neatly into other exemption categories. Federal bankruptcy law includes a wildcard of approximately $1,475 plus up to $13,950 of unused homestead exemption.
+Many states offer a wildcard exemption - a dollar amount you can apply to any property of your choosing. This is valuable for protecting assets that don't fit neatly into other exemption categories. Federal bankruptcy law includes a wildcard of approximately $1,475 plus up to $13,950 of unused homestead exemption.
 
 Wildcard exemptions are particularly useful for protecting cash in bank accounts, tax refunds, or other liquid assets that might not be covered by specific exemptions. Check your state's complete exemption list.
 
@@ -1297,6 +1322,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1306,7 +1335,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1390,7 +1419,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## What Does It Mean to Be Judgment Proof? -- Complete Guide -- Judgmentproof
+## What Does It Mean to Be Judgment Proof? - Complete Guide - Judgmentproof
 Source: https://judgmentproof.org/what-is-judgment-proof.html
 
 What Does It Mean to Be Judgment Proof?
@@ -1401,13 +1430,13 @@ Home » What Does It Mean to Be Judgment Proof?
 
 Definition of Judgment Proof
 
-Being "judgment proof" (also called "collection proof") means that even if a creditor sues you and wins a judgment, they cannot practically collect because your income and assets are protected by law. It doesn't mean you can't be sued -- it means a judgment against you is essentially worthless because there's nothing to seize.
+Being "judgment proof" (also called "collection proof") means that even if a creditor sues you and wins a judgment, they cannot practically collect because your income and assets are protected by law. It doesn't mean you can't be sued - it means a judgment against you is essentially worthless because there's nothing to seize.
 
 This status isn't a formal legal designation. There's no court filing or certificate. It's a practical assessment of whether your income is exempt from garnishment and whether you own any non-exempt assets. If the answer to both is yes, you are effectively judgment proof.
 
 Who Is Typically Judgment Proof?
 
-Common profiles of judgment-proof individuals: People living entirely on Social Security -- federal law prohibits garnishment of SS benefits. People on disability income (SSDI or SSI) -- protected from garnishment. Retirees on pension income -- many pensions are exempt. Low-income workers -- federal law protects the first 30x minimum wage per week (about $217.50). Unemployed individuals with no assets.
+Common profiles of judgment-proof individuals: People living entirely on Social Security - federal law prohibits garnishment of SS benefits. People on disability income (SSDI or SSI) - protected from garnishment. Retirees on pension income - many pensions are exempt. Low-income workers - federal law protects the first 30x minimum wage per week (about $217.50). Unemployed individuals with no assets.
 
 You might also be effectively judgment proof if your only assets are exempt property: a modest home (protected by homestead exemptions), a basic vehicle, necessary household goods, and tools of your trade.
 
@@ -1450,6 +1479,10 @@ and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level stat
 Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
 This is educational content, not legal advice.
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1459,7 +1492,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1543,7 +1576,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## When Judgment-Proof Status Changes -- Protecting Yourself as Finances Improve -- Judgmentproof
+## When Judgment-Proof Status Changes - Protecting Yourself as Finances Improve - Judgmentproof
 Source: https://judgmentproof.org/when-status-changes.html
 
 When Judgment-Proof Status Changes
@@ -1566,15 +1599,15 @@ A judgment may also accrue interest (typically 4-12% annually depending on the s
 
 Proactive Steps Before Status Changes
 
-If you anticipate your financial situation improving: 1. Consider filing bankruptcy while you're still judgment proof -- it eliminates the debt permanently and prevents future collection. 2. Negotiate settlements -- creditors may accept pennies on the dollar if they know you're currently judgment proof. 3. Verify all judgments -- check your state's court records for any existing judgments. 4. Understand your state's exemptions -- your new income or assets may still be partially protected.
+If you anticipate your financial situation improving: 1. Consider filing bankruptcy while you're still judgment proof - it eliminates the debt permanently and prevents future collection. 2. Negotiate settlements - creditors may accept pennies on the dollar if they know you're currently judgment proof. 3. Verify all judgments - check your state's court records for any existing judgments. 4. Understand your state's exemptions - your new income or assets may still be partially protected.
 
 The best time to deal with old debt is before your status changes. Filing Chapter 7 bankruptcy when you have no income and no assets is straightforward and eliminates the threat permanently. Waiting until after you're employed makes the process more complicated.
 
 If You've Already Lost Judgment-Proof Status
 
-If you now have garnishable wages or non-exempt assets: contact a bankruptcy attorney immediately if old judgments exist. Bankruptcy can stop garnishment the day it's filed (through the automatic stay) and eliminate the underlying debt. You can also negotiate with judgment creditors for a lump-sum settlement -- they may accept less than the judgment amount rather than pursue garnishment proceedings.
+If you now have garnishable wages or non-exempt assets: contact a bankruptcy attorney immediately if old judgments exist. Bankruptcy can stop garnishment the day it's filed (through the automatic stay) and eliminate the underlying debt. You can also negotiate with judgment creditors for a lump-sum settlement - they may accept less than the judgment amount rather than pursue garnishment proceedings.
 
-Act quickly once your status changes. Creditors with existing judgments don't need to file a new lawsuit -- they can go straight to enforcement (wage garnishment, bank levy). The sooner you address old judgments, the better. Check your bankruptcy eligibility.
+Act quickly once your status changes. Creditors with existing judgments don't need to file a new lawsuit - they can go straight to enforcement (wage garnishment, bank levy). The sooner you address old judgments, the better. Check your bankruptcy eligibility.
 
 Frequently Asked Questions
 
@@ -1608,7 +1641,7 @@ Further Reading & Resources
 Authority sources for deeper research on judgments and being sued for debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Sued by Collector
 Consumer guide
@@ -1689,3 +1722,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - judgmentproof.org
+Source: https://judgmentproof.org/privacy.html
+
+judgmentproof.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
