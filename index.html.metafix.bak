@@ -6,7 +6,7 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
 <title>Judgment Proof - Can Creditors Collect? [2026] - Judgmentproof</title>
-<meta name="description" content="Judgment-proof status: when creditors can't collect because you have no non-exempt income or assets. Free 2026 guide.">
+<meta content="Are you judgment proof? If you have no income or assets to seize, creditors can't collect. Learn how to determine your status. 2026 guide. T collect even if they sue. Find out if you qualify based on income, assets, and state exemption laws. Free 2026." name="description"/>
 <meta content="judgment proof, collection proof, uncollectible, creditor cannot collect, exempt income" name="keywords"/>
 <link href="https://judgmentproof.org/" rel="canonical"/>
 <link href="https://judgmentproof.org/" hreflang="en" rel="alternate"/>
@@ -173,7 +173,7 @@ main{padding:0}
   "@graph": [
     {
       "@type": "SiteNavigationElement",
-      "name": "Open Bankruptcy Project Network",
+      "name": "BTN Network",
       "url": [
         "https://1328f.com",
         "https://1328f.org",
